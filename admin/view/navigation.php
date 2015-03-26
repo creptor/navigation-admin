@@ -33,7 +33,7 @@
 							</div>
 						</div>	
 						<div class="form-group">
-							<label class="col-sm-2 control-label" for="status">Status:</label>
+							<label class="col-sm-2 control-label" for="status">Visible:</label>
 							<div class="col-sm-10">
                             	<input style="vertical-align: -webkit-baseline-middle;vertical-align:bottom;" type="checkbox" name="status" id="status" value="1"<?php if($list['status'] == 1){echo ' checked';} ?>>
 							</div>
@@ -84,7 +84,7 @@
 							</div>
 						</div>
 						<div class="form-group">
-							<label class="col-sm-2 control-label" for="status">Status:</label>
+							<label class="col-sm-2 control-label" for="status">Visible:</label>
 							<div class="col-sm-10">
                             	<input style="vertical-align: -webkit-baseline-middle;vertical-align:bottom;" type="checkbox" name="status" id="status" value="1">
 							</div>
