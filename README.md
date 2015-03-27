@@ -1,5 +1,5 @@
 # navigation-admin
-<p style="font-weight:bold">You need php 5.2 or later to use this</p>
+<h3>You need php 5.2 or later to use this</h3>
 <p>A navigation extender for the admin section of the Atom.CMS website.</p>
 
 <p>This repository contains all the needed files for the navigation from the admin section to work. You must remember to add THE SQL TABLES and update your current pages table in order for this to work.</p>
